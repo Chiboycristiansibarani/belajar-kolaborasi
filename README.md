@@ -7,3 +7,7 @@ Belajar Github di Dicoding sangat menyenangkan!
 Saya melakukan berbagai pembelajaran di Dicoding
 - Git
 - Github
+- Merged
+- Squashing
+- Revert
+- Reset
