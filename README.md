@@ -11,3 +11,5 @@ Saya melakukan berbagai pembelajaran di Dicoding
 - Squashing
 - Revert
 - Reset
+- Kolaborasi Tim
+- Pargoy
